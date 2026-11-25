@@ -29,5 +29,10 @@ This project analyzes retail sales data to uncover trends, understand business p
 ## Expected Outcomes
 The project will provide insights into sales performance, product demand, and opportunities for business growth.
 
+## Project Files
+- `sales_data-2.csv` — Sales dataset
+- `Untitled12-2.ipynb` — Analysis notebook
+
 ## Status
-Project setup in progress.
+Completed
+
